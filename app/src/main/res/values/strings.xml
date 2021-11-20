@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">test</string>
+    <string name="app_name">Marketplace</string>
+    <string name="msjlogin">LOG IN</string>
+    <string name="msjlogin_condition">if you already have a username and password</string>
+    <string name="msjdata">CHECK IN</string>
+    <string name="msjname">Name</string>
+    <string name="msjlastname">Last Name</string>
+    <string name="msjemail">Email</string>
+    <string name="msjpassword">Your Password</string>
+    <string name="msjphone">Phone Number</string>
+    <string name="msjcheckin">CHECK IN</string>
+    <string name="msjcheckin_condition">if you are new and do not have a username and password</string>
+
 </resources>
