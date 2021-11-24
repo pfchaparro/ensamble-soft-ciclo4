@@ -21,7 +21,6 @@ import com.example.ensamblesoftc4.db.DbHelper;
 import com.google.android.material.textfield.TextInputLayout;
 
 public class MainActivity1 extends AppCompatActivity {
-
     Spinner spinner1;
     Button B3;
     EditText E1, E2, E3, E4, E5, E6;
@@ -31,7 +30,6 @@ public class MainActivity1 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main1);
-
 
         spinner1 = (Spinner) findViewById(R.id.spinner);
         B3 = (Button) findViewById(R.id.btn_ckeckin_main1);
@@ -70,12 +68,36 @@ public class MainActivity1 extends AppCompatActivity {
 
                 DbHelper dbHelper = new DbHelper(MainActivity1.this);
                 SQLiteDatabase db = dbHelper.getWritableDatabase();
-                if (v1==true && v2==true && v3==true && v4==true && v5==true && v6==true){
-                    Toast.makeText(MainActivity1.this,"DATOS INGRESADOS CORRECTAMENTE Y BASE DE DATOS CREADA",Toast.LENGTH_LONG).show();
-                    Intent B3 = new Intent(MainActivity1.this, MainActivity.class);
-                    startActivity(B3);
-                } else {
-                    Toast.makeText(MainActivity1.this,"DATOS INCORRECTOS",Toast.LENGTH_LONG).show();
+                if (E1.getText().toString().isEmpty()){
+                    Toast.makeText(MainActivity1.this,"Campo número identificación vacio",Toast.LENGTH_LONG).show();
+                }else {
+                    if (E2.getText().toString().isEmpty()){
+                        Toast.makeText(MainActivity1.this,"Campo Nombre vacio",Toast.LENGTH_LONG).show();
+                    }else {
+                        if (E3.getText().toString().isEmpty()){
+                            Toast.makeText(MainActivity1.this,"Campo Apellido vacio",Toast.LENGTH_LONG).show();
+                        }else {
+                            if (E4.getText().toString().isEmpty()){
+                                Toast.makeText(MainActivity1.this,"Campo número de teléfono vacio",Toast.LENGTH_LONG).show();
+                            }else {
+                                if (E5.getText().toString().isEmpty()){
+                                    Toast.makeText(MainActivity1.this,"Campo Correo electrónico vacio",Toast.LENGTH_LONG).show();
+                                }else {
+                                    if (E6.getText().toString().isEmpty()){
+                                        Toast.makeText(MainActivity1.this,"Campo contraseña vacio",Toast.LENGTH_LONG).show();
+                                    }else {
+                                        if (v1==true && v2==true && v3==true && v4==true && v5==true && v6==true){
+                                            Toast.makeText(MainActivity1.this,"DATOS INGRESADOS CORRECTAMENTE Y BASE DE DATOS CREADA",Toast.LENGTH_LONG).show();
+                                            Intent B3 = new Intent(MainActivity1.this, MainActivity.class);
+                                            startActivity(B3);
+                                        } else {
+                                            Toast.makeText(MainActivity1.this,"DATOS INCORRECTOS",Toast.LENGTH_LONG).show();
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
                 }
             }
         });
