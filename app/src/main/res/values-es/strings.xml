@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ensamble Soft C4</string>
+    <string name="msjlogin">INICIAR SESION</string>
+    <string name="msjlogin_condition">Si ya tiene un nombre de usuario y contraseña</string>
+    <string name="msjdata">REGISTRARSE</string>
+    <string name="msjname">Nombre</string>
+    <string name="msjlastname">Apellido</string>
+    <string name="msjemail">Correo electrónico</string>
+    <string name="msjpassword">Contraseña</string>
+    <string name="msjphone">Número de teléfono</string>
+    <string name="msjcheckin">REGISTRARSE</string>
+    <string name="msjcheckin_condition">Si eres nuevo y no tienes nombre de usuario y contraseña</string>
+    <string name="msj_type_ident">TIPO DE IDENTIFICACIÓN</string>
+    <string name="msjop1">NÚMERO DE IDENTIFICACIÓN</string>
+    <string name="msjop2">Ingrese el número de identificación</string>
+    <string name="msjop3">Validar contraseña</string>
+    <string name="msjop4">Tu contraseña debe tener</string>
+    <string name="msjop5">Minimo 8 caracteres</string>
+    <string name="msjop6">Un (1) número</string>
+    <string name="msjop7">Una (1) mayúscula</string>
+    <string name="msjop8">Un (1) caracter especial</string>
+    <string name="msjerror">Contraseña no coincide</string>
+
+</resources>

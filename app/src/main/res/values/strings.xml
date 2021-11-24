@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ensamble Soft C4</string>
+    <string name="msjlogin">LOG IN</string>
+    <string name="msjlogin_condition">if you already have a username and password</string>
+    <string name="msjcheckin_condition">if you are new and do not have a username and password</string>
+    <string name="msjdata">CHECK IN</string>
+    <string name="msj_type_ident">TYPE OF IDENTIFICATION</string>
+    <string name="msjop1">IDENTIFICATION NUMBER</string>
+    <string name="msjop2">Enter identification number</string>
+    <string name="msjname">Name</string>
+    <string name="msjlastname">Last Name</string>
+    <string name="msjemail">Email</string>
+    <string name="msjpassword">Password</string>
+    <string name="msjphone">Phone Number</string>
+    <string name="msjcheckin">CHECK IN</string>
+    <string name="msjop3">Validate password</string>
+    <string name="msjop4">Your password must have</string>
+    <string name="msjop5">Minimun 8 characters</string>
+    <string name="msjop6">A (1) number</string>
+    <string name="msjop7">A (1) capital letter</string>
+    <string name="msjop8">A (1) special character</string>
+    <string name="msjerror">Password does not match</string>
+
+</resources>
