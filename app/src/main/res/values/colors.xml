@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="tblue">#0A21A9</color>
+    <color name="tblue2">#0A21A9</color>
+    <color name="tpurple">#AD0093</color>
+    <color name="torange">#FF7150</color>
+    <color name="tgreen">#004C2D</color>
+    <color name="tteal">#00825A</color>
+    <color name="tred">#940000</color>
+    <color name="tgray">#7A7585</color>
+    <color name="tgray2">#AEA9BA</color>
 </resources>

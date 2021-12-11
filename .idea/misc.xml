@@ -3,20 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/drawable/ic_email.xml" value="0.2203125" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/drawable/ic_launcher_logo_background.xml" value="0.2203125" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout-land/activity_main.xml" value="0.1728395061728395" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout-sw480dp-land/activity_main.xml" value="0.13119143239625167" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout-sw480dp/activity_main.xml" value="0.153125" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout-sw600dp-land/activity_main.xml" value="0.13119143239625167" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.153125" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout-sw720dp-land/activity_main.xml" value="0.13119143239625167" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout-sw720dp/activity_main.xml" value="0.153125" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout/activity_main.xml" value="0.15" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout/activity_main1.xml" value="0.22" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout/activity_main2.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/drawable/botone1.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/drawable/botones2.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/drawable/textlines.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/drawable/textos.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/activity_carrito.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/activity_catalogo.xml" value="0.10182370820668693" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/activity_categorias.xml" value="0.1" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/activity_confirmar_orden.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/activity_home.xml" value="0.18" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/activity_login_admin.xml" value="0.1" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/activity_principal.xml" value="0.1" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/app_bar_principal.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/contenido_principal.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/item_layout2.xml" value="0.25" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/items_layout.xml" value="0.1816123188405797" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/nav_header_principal.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/layout/productos_item_layout.xml" value="0.1" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/EnsambeSt/app/src/main/res/menu/activity_principal_drawer.xml" value="0.209375" />
       </map>
     </option>
   </component>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity"
+    android:background="@drawable/celhomebg">
+
+    <TextView
+        android:id="@+id/textv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:text="Tienda Virtual - EnsambleStore"
+        android:textAlignment="center"
+        android:textColor="@color/tpurple"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textBienvenido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bienvenid@"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="@color/tblue2"
+        android:layout_centerInParent="true"/>
+
+
+    <Button
+        android:id="@+id/botonusuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/botones2"
+        android:padding="10dp"
+        android:layout_marginBottom="30dp"
+        android:text="Ingresar a la tienda"
+        android:textColor="@color/black" />
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861883546653",
+    "project_id": "fbensamble",
+    "storage_bucket": "fbensamble.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861883546653:android:fc3d35660b2931345d9af4",
+        "android_client_info": {
+          "package_name": "com.example.ensambest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861883546653-b2pe41lcom1p1m4k86ikjprnjpu1nloq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDV5tn3vkxfWyTVZ_ARbAdPJoyTRb6Vt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861883546653-b2pe41lcom1p1m4k86ikjprnjpu1nloq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

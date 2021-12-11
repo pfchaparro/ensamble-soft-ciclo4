@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".LoginActivity">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/usuario_imagen_perfil"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/groot"
+        app:civ_border_color="@color/tgray"
+        app:civ_border_width="2dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        />
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:id="@+id/usuario_nombre_perfil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:text="Nombre"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+        android:layout_below="@id/usuario_imagen_perfil"
+        />
+
+
+        <Button
+            android:id="@+id/btcarrito"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/usuario_nombre_perfil"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/botone1"
+            android:padding="10dp"
+            android:text="Carrito"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+            android:drawableLeft="@drawable/icon_cart"/>
+
+    <Button
+        android:id="@+id/btcategorias"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btcarrito"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/botone1"
+        android:padding="10dp"
+        android:text="Categorias"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:drawableLeft="@drawable/icon_list"/>
+
+    <Button
+        android:id="@+id/btbuscar"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btcategorias"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/botone1"
+        android:padding="10dp"
+        android:text="Buscar"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:drawableLeft="@drawable/icon_search"/>
+
+    <Button
+        android:id="@+id/btperfil"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btbuscar"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/botone1"
+        android:padding="10dp"
+        android:text="Mi Perfil"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:drawableLeft="@drawable/icon_user"/>
+
+    <Button
+        android:id="@+id/btsalir"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btperfil"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/botone1"
+        android:padding="10dp"
+        android:text="Salir"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:drawableLeft="@drawable/icon_exit"/>
+
+</RelativeLayout>
