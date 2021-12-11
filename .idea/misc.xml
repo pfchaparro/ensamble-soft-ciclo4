@@ -3,10 +3,6 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/drawable/ic_email.xml" value="0.2203125" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/drawable/ic_launcher_logo_background.xml" value="0.2203125" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout-land/activity_main.xml" value="0.1728395061728395" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout-sw480dp-land/activity_main.xml" value="0.13119143239625167" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout-sw480dp/activity_main.xml" value="0.153125" />
@@ -15,7 +11,7 @@
         <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout-sw720dp-land/activity_main.xml" value="0.13119143239625167" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout-sw720dp/activity_main.xml" value="0.153125" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout/activity_main.xml" value="0.15" />
-        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout/activity_main1.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout/activity_main1.xml" value="0.15" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/EnsambleSoftC4/app/src/main/res/layout/activity_main2.xml" value="0.19429347826086957" />
       </map>
     </option>
